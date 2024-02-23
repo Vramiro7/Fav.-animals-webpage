@@ -1,0 +1,42 @@
+body {
+	background-color: salmon;
+}
+
+h1 {
+	color: whitesmoke;
+}
+
+section {
+	background-color: blue;
+	width: 300px;
+}
+
+ol > li {
+	color: lime;
+}
+
+img {
+	width: 750px;
+}
+
+section li {
+	font-size: 10pt;
+}
+
+ul > li {
+	color: black;
+}
+
+header {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.column {
+	float: left;
+	margin: 50px;
+	width: 50%;
+}
